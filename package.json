@@ -1,0 +1,17 @@
+{
+  "name": "npmpractise",
+  "version": "1.0.0",
+  "description": "This is a practise folder for npm where various packages will be downloaded. All of this will be inside the folder only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Aarat Batra",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0",
+    "superheroes": "^3.0.0"
+  }
+}
